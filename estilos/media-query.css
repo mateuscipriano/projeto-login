@@ -20,6 +20,12 @@ section#login > div#iform {
     float: right;
     width: 70%;
 }
+
+div#iform > p {
+    font-size: 1.2em;
+
+}
+
 }
 
 
@@ -34,14 +40,23 @@ section#login > div#iform {
     }
 
     section#login > div#iimg {
-        float: left;
+        float: right;
         width: 50%;
         height: 100%;
     }
 
     section#login > div#iform {
-        float: right;
+        float: left;
         width: 50%;
         height: 100%;
     }
+
+    div#iform > h1 {
+        font-size: 2em;
+    }
+
+    div#iform > p {
+    font-size: 1.2em;
+}
+
 }
