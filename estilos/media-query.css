@@ -8,6 +8,7 @@
 
     section#login {
         width: 80vw;
+        height: 350px;
     }
     
     section#login > div#iimg {
@@ -37,6 +38,7 @@ div#iform > p {
 
     section#login {
         width: 940px;
+        height: 350px;
     }
 
     section#login > div#iimg {
